@@ -1,0 +1,11 @@
+<Services>
+	<current>
+		<address>localhost</address>
+		<port>9993</port>
+	</current>
+	<service>
+		<address>10.1.212.176</address>
+		<port>9992</port>
+	</service>
+</Services>
+

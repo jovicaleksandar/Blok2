@@ -1,0 +1,42 @@
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\bin\Debug\ServiceApp.exe
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\bin\Debug\ServiceApp.pdb
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\bin\Debug\Contracts.dll
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\bin\Debug\RBAC.dll
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\bin\Debug\Contracts.pdb
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\bin\Debug\RBAC.pdb
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\obj\x86\Debug\ServiceApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\obj\x86\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\obj\x86\Debug\ServiceApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\obj\x86\Debug\ServiceApp.exe
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\obj\x86\Debug\ServiceApp.pdb
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\bin\Debug\ServiceApp.exe.config
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\bin\Debug\ServiceApp.exe.config
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\bin\Debug\ServiceApp.exe
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\bin\Debug\ServiceApp.pdb
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\bin\Debug\Contracts.dll
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\bin\Debug\RBAC.dll
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\bin\Debug\Contracts.pdb
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\bin\Debug\RBAC.pdb
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\obj\x86\Debug\ServiceApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\obj\x86\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\obj\x86\Debug\ServiceApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\obj\x86\Debug\ServiceApp.exe
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ServiceApp\obj\x86\Debug\ServiceApp.pdb
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ServiceApp\bin\Debug\ServiceApp.exe.config
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ServiceApp\bin\Debug\ServiceApp.exe
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ServiceApp\bin\Debug\ServiceApp.pdb
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ServiceApp\bin\Debug\Contracts.dll
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ServiceApp\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ServiceApp\bin\Debug\RBAC.dll
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ServiceApp\bin\Debug\Contracts.pdb
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ServiceApp\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ServiceApp\bin\Debug\RBAC.pdb
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ServiceApp\obj\x86\Debug\ServiceApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ServiceApp\obj\x86\Debug\ServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ServiceApp\obj\x86\Debug\ServiceApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ServiceApp\obj\x86\Debug\ServiceApp.exe
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ServiceApp\obj\x86\Debug\ServiceApp.pdb

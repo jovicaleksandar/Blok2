@@ -1,0 +1,27 @@
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\RBAC\bin\Debug\RBAC.dll
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\RBAC\bin\Debug\RBAC.pdb
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\RBAC\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\RBAC\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\RBAC\obj\Debug\RBAC.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\RBAC\obj\Debug\RBAC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\RBAC\obj\Debug\RBAC.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\RBAC\obj\Debug\RBAC.dll
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\RBAC\obj\Debug\RBAC.pdb
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\RBAC\bin\Debug\RBAC.dll
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\RBAC\bin\Debug\RBAC.pdb
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\RBAC\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\RBAC\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\RBAC\obj\Debug\RBAC.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\RBAC\obj\Debug\RBAC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\RBAC\obj\Debug\RBAC.csproj.CopyComplete
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\RBAC\obj\Debug\RBAC.dll
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\RBAC\obj\Debug\RBAC.pdb
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\RBAC\bin\Debug\RBAC.dll
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\RBAC\bin\Debug\RBAC.pdb
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\RBAC\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\RBAC\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\RBAC\obj\Debug\RBAC.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\RBAC\obj\Debug\RBAC.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\RBAC\obj\Debug\RBAC.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\RBAC\obj\Debug\RBAC.dll
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\RBAC\obj\Debug\RBAC.pdb

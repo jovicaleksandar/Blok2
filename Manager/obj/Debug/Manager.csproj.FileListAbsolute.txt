@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\Manager\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\Manager\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\Manager\obj\Debug\Manager.dll
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\Manager\obj\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\Manager\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\Manager\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\Manager\obj\Debug\Manager.dll
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\Manager\obj\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\Manager\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\Manager\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\Manager\obj\Debug\Manager.dll
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\Manager\obj\Debug\Manager.pdb

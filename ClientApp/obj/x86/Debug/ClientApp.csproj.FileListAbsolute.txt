@@ -1,0 +1,36 @@
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\bin\Debug\Contracts.dll
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\bin\Debug\Contracts.pdb
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\obj\x86\Debug\ClientApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\Users\Administrator\Desktop\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\bin\Debug\Contracts.dll
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\bin\Debug\Contracts.pdb
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\obj\x86\Debug\ClientApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Users\Administrator\Desktop\LOGER_RESEN(malo izmene ispraviti)r\Distribuirano-skladistenje-podataka-master\Projekat\ClientApp\obj\x86\Debug\ClientApp.pdb
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ClientApp\bin\Debug\ClientApp.exe.config
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ClientApp\bin\Debug\ClientApp.exe
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ClientApp\bin\Debug\ClientApp.pdb
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ClientApp\bin\Debug\Contracts.dll
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ClientApp\bin\Debug\Manager.dll
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ClientApp\bin\Debug\Contracts.pdb
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ClientApp\bin\Debug\Manager.pdb
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ClientApp\obj\x86\Debug\ClientApp.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ClientApp\obj\x86\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ClientApp\obj\x86\Debug\ClientApp.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ClientApp\obj\x86\Debug\ClientApp.exe
+C:\Users\Administrator\Desktop\ProjekatFinale\Projekat\ClientApp\obj\x86\Debug\ClientApp.pdb

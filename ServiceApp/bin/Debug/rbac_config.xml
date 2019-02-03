@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<groups>
+<Reader>
+<permission>read</permission>
+<permission>calculate</permission>
+</Reader>
+
+<Editor>
+<permission>read</permission>
+<permission>edit</permission>
+<permission>calculate</permission>
+</Editor>
+
+<Admin>
+<permission>add</permission>
+<permission>read</permission>
+<permission>delete</permission>
+</Admin>
+
+</groups>
+
